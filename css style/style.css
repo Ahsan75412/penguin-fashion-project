@@ -1,0 +1,35 @@
+/*.............................. header stat here.................... */
+header{
+    background-color: #FFFBF0;
+    height: 100vh;
+}
+
+span{
+    color:#FABE4C ;
+}
+
+.sub-container-left h1{
+    font-size: 55px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+
+
+.nav-link{
+    margin-left: 30px;
+    font-weight: 600;
+}
+
+button{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+/*.............................. header ends here.................... */
